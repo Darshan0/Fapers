@@ -1,2 +1,2 @@
-# paper
+# Paper
 Notes Taking App
